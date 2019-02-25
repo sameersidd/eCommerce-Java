@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="E-Commerce Site:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/E_Commerce_Site_war</output-path>
+    <root id="archive" name="E-Commerce Site_war.war">
+      <element id="artifact" artifact-name="E-Commerce Site:war exploded" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>

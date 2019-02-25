@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://D:/Tomcat Server/apache-tomcat-9.0.16/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Apps/Development/MySQL server/mysql-connector-java-5.1.47.zip!/mysql-connector-java-5.1.47/src" />
+    </SOURCES>
+    <jarDirectory url="file://D:/Tomcat Server/apache-tomcat-9.0.16/lib" recursive="false" />
+  </library>
+</component>
